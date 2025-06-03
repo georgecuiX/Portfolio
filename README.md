@@ -1,4 +1,4 @@
-🚀 React Portfolio
+# 🚀 React Portfolio
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Vite-4.4.5-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -11,3 +11,17 @@
   <p><em>Built with modern web technologies and designed for exceptional user experience</em></p>
 </div>
 
+## 🛠️ Tech Stack
+### Frontend Framework
+```
+⚛️  React 18.2.0          # Component-based UI library
+🔥  Vite 4.4.5            # Lightning-fast build tool
+```
+
+### Styling & Design
+
+
+### Icons & Assets
+
+
+### Development Tools
