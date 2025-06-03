@@ -7,7 +7,7 @@
 </div>
 <br />
 <div align="center">
-  <h3>✨ A modern, responsive portfolio showcasing my journey as a Computer Science student at TMU ✨</h3>
+  <h3> A modern, responsive portfolio showcasing my journey as a Computer Science student at TMU </h3>
 </div>
 
 ## 🛠️ Tech Stack
@@ -16,14 +16,14 @@
 - 🔥  **Vite** 4.4.5
 
 ### Styling & Design
-- 🎨  **Tailwind CSS** 3.3.3    
-- ✨  Gradient Backgrounds  
-- 📱  Responsive Design    
+- **Tailwind CSS** 3.3.3    
+- Gradient Backgrounds  
+- Responsive Design    
 
 ### Icons & Assets
-- 🎯  **Lucide React** 0.263.1 
+- **Lucide React** 0.263.1 
 
 ### Development Tools
-- 📋  ESLint               
-- 🔧  PostCSS & Autoprefixer
-- 📦  Modern JS/ES6+       
+- ESLint               
+- PostCSS & Autoprefixer
+- Modern JS/ES6+       
