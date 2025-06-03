@@ -5,9 +5,8 @@ export const portfolioData = {
       location: "Markham, ON",
       email: "georgecuix@gmail.com",
       github: "https://github.com/georgecuiX",
-      linkedin: "https://linkedin.com/in/georgecui",
+      linkedin: "https://linkedin.com/in/george-cui-gc830/",
       bio: "Hey there! I'm currently a third year Computer Science student at Toronto Metropolitan University with a passion for full-stack development. I'm experienced in building scalable web applications using modern technologies like React, Node.js, and Python. Currently maintaining a 3.98 GPA while gaining practical experience through internships and personal projects.",
-      heroTagline: "I build exceptional digital experiences",
       avatar: "https://media.licdn.com/dms/image/v2/D5603AQFVA5IFjCo83w/profile-displayphoto-shrink_800_800/B56ZSPlL9CGoAg-/0/1737575678710?e=1754524800&v=beta&t=RGCyG2d9ytJ-C8KwbShloiYIZcDb1SZe15GHAtgtQBY"
     },
     skills: {
@@ -53,9 +52,9 @@ export const portfolioData = {
         duration: "Sep 2024 - Dec 2024",
         location: "Queens, NY (Remote)",
         achievements: [
-          "Enhanced system integration and alignment with technology standards by developing and maintaining technical documentation for clients, using Python automation scripts to reduce manual tasks by 25%",
-          "Optimized event logistics and meeting coordination by implementing AI-powered tools, such as Google Calendar AI, cutting scheduling time by 30% and improving the accuracy of travel and conference arrangements",
-          "Revamped the company website using React and JavaScript, improving navigation, responsiveness, and user experience"
+          "Enhanced system integration and alignment with technology standards by developing and maintaining technical documentation for clients, using Python automation scripts to reduce manual tasks by 25%.",
+          "Optimized event logistics and meeting coordination by implementing AI-powered tools, such as Google Calendar AI, cutting scheduling time by 30% and improving the accuracy of travel and conference arrangements.",
+          "Revamped the company website using React and JavaScript, improving navigation, responsiveness, and user experience."
         ]
       },
       {
@@ -65,9 +64,9 @@ export const portfolioData = {
         duration: "May 2023 - Jan 2024",
         location: "Markham, ON",
         achievements: [
-          "Facilitated over 400 immersive VR experiences, maintaining a 95% customer satisfaction rating through personalized assistance and adept management of interactive sessions, fostering a welcoming environment",
-          "Excelled in high-pressure situations, swiftly resolving customer concerns and technical issues, ensuring minimal disruptions",
-          "Managed daily client communications, responding to 10+ calls and inquiries while leveraging a customer database"
+          "Facilitated over 400 immersive VR experiences, maintaining a 95% customer satisfaction rating through personalized assistance and adept management of interactive sessions, fostering a welcoming environment.",
+          "Excelled in high-pressure situations, swiftly resolving customer concerns and technical issues, ensuring minimal disruptions.",
+          "Managed daily client communications, responding to 10+ calls and inquiries while leveraging a customer database."
         ]
       }
     ]

@@ -33,7 +33,7 @@ const Hero = () => {
               {portfolioData.personal.name}
             </h1>
             <h2 className="text-2xl md:text-3xl font-semibold mb-6">
-              I build <AnimatedText>exceptional digital experiences</AnimatedText>
+              Always <AnimatedText>learning</AnimatedText>, always <AnimatedText>building</AnimatedText>
             </h2>
           </div>
 
@@ -80,22 +80,6 @@ const Hero = () => {
               <Download size={20} />
               <span>Download Resume</span>
             </a>
-          </div>
-
-          {/* Quick stats */}
-          <div className="mt-16 grid grid-cols-3 gap-8 max-w-2xl mx-auto">
-            <div className="text-center">
-              <div className="text-3xl font-bold text-blue-600">3+</div>
-              <div className="text-sm text-gray-600">Projects Completed</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-blue-600">2+</div>
-              <div className="text-sm text-gray-600">Years Experience</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-blue-600">10+</div>
-              <div className="text-sm text-gray-600">Technologies</div>
-            </div>
           </div>
         </div>
       </div>
