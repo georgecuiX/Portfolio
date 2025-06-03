@@ -9,11 +9,6 @@ const About = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
-          <div className="flex items-center justify-center space-x-2 text-gray-600">
-            <Sparkles className="text-yellow-500" size={20} />
-            <p className="text-lg">Get to know the person behind the code</p>
-            <Sparkles className="text-yellow-500" size={20} />
-          </div>
         </div>
 
         {/* Main Content Grid */}
