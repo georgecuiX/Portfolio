@@ -8,7 +8,6 @@
 <br />
 <div align="center">
   <h3>✨ A modern, responsive portfolio showcasing my journey as a Computer Science student at TMU ✨</h3>
-  <p><em>Built with modern web technologies and designed for exceptional user experience</em></p>
 </div>
 
 ## 🛠️ Tech Stack
