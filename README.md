@@ -13,18 +13,18 @@
 
 ## 🛠️ Tech Stack
 ### Frontend Framework
-- ⚛️  React 18.2.0
-- 🔥  Vite 4.4.5
+- ⚛️  **React** 18.2.0
+- 🔥  **Vite** 4.4.5
 
 ### Styling & Design
-- 🎨  Tailwind CSS 3.3.3    # Utility-first CSS framework
-- ✨  Gradient Backgrounds   # Modern visual effects
-- 📱  Responsive Design      # Mobile-first approach
+- 🎨  **Tailwind CSS** 3.3.3    
+- ✨  Gradient Backgrounds  
+- 📱  Responsive Design    
 
 ### Icons & Assets
-- 🎯  Lucide React 0.263.1  # Beautiful, consistent icons
+- 🎯  **Lucide React** 0.263.1 
 
 ### Development Tools
-- 📋  ESLint               # Code linting and formatting
-- 🔧  PostCSS & Autoprefixer # CSS processing
-- 📦  Modern JS/ES6+        # Latest JavaScript features
+- 📋  ESLint               
+- 🔧  PostCSS & Autoprefixer
+- 📦  Modern JS/ES6+       
