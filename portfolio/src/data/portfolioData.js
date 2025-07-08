@@ -27,9 +27,9 @@ export const portfolioData = {
       },
       {
         id: 2,
-        title: "Recipe Vault",
-        description: "Engineered a full-stack recipe management application using Flask, enabling users to efficiently add, search, view, and delete recipes through an intuitive web interface, improving recipe organization and retrieval speed by 50%.",
-        tech: ["Python", "Flask", "HTML", "CSS", "PyQT", "SQLite"],
+        title: "StockSim",
+        description: "Created a comprehensive full-stack stock market analysis platform enabling users to research stocks, track portfolios, and simulate trading decisions with real-time market data integration.",
+        tech: ["Python", "Flask", "React", "Javascript", "SQLite", "Alpha Vantage API", "Axios", "SQLAlchemy"],
         github: "https://github.com/georgecui/recipe-vault",
         demo: "https://recipe-vault-demo.com",
         image: "https://images.unsplash.com/photo-1466637574441-749b8f19452f?w=400&h=250&fit=crop"
@@ -47,6 +47,18 @@ export const portfolioData = {
     experience: [
       {
         id: 1,
+        company: "Sun Pharma",
+        role: "IT Intern - Software Development",
+        duration: "May 2025 - Aug 2025",
+        location: "Brampton, ON",
+        achievements: [
+          "Implemented a secure PIN-based authentication system using VB.NET, replacing legacy card swipe functionality with encrypted PIN storage and role-based access controls, serving 200+ active users across the Compounding department.",
+          "Designed comprehensive database infrastructure in SQL Server using SSMS to manage user authentication, security auditing, and system configuration, reducing account lockout resolution time by 85% through automated PIN reset capabilities.",
+          "Created detailed user and IT admin manuals, improving system adoption rates and reducing help desk tickets by an estimated 60%."
+        ]
+      },
+      {
+        id: 2,
         company: "T-Rex Consulting",
         role: "Technical Administrator",
         duration: "Sep 2024 - Dec 2024",
@@ -58,7 +70,7 @@ export const portfolioData = {
         ]
       },
       {
-        id: 2,
+        id: 3,
         company: "VR Escapism",
         role: "Customer Service Representative",
         duration: "May 2023 - Jan 2024",
