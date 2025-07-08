@@ -7,7 +7,7 @@
 </div>
 <br />
 <div align="center">
-  <h3> A modern, responsive portfolio showcasing my journey as a Computer Science student at TMU </h3>
+  <h3> A responsive portfolio showcasing my journey as a Computer Science student at TMU </h3>
 </div>
 
 ## 🛠️ Tech Stack

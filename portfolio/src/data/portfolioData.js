@@ -40,7 +40,7 @@ export const portfolioData = {
         description: "Developed a membership management system designed to efficiently manage the operations and finances of an amateur dance club. Collaborated with a group of 3 developers to create a full-stack application ensuring robust data handling and a seamless user experience.",
         tech: ["React", "JavaScript", "Tailwind", "Node.js", "SQLite", "Axios API", "Context API"],
         github: "https://github.com/georgecuiX/DanceSyncRecClub",
-        demo: "https://dancesync-demo.com",
+        demo: "https://youtu.be/bO_mOET84s4",
         image: "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=400&h=250&fit=crop",
       },
     ],
